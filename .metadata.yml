@@ -2,7 +2,9 @@ metadata:
   name: "bert"
   description: "A BERT (Binary ERlang Term) serialization library for Ruby. It can encode Ruby objects into BERT format and decode BERT binaries into Ruby objects."
   labels:
-    stack: "ruby, c"
+    stack: 
+      - "ruby"
+      - "c"
     product: "dsp"
     jira-project: "SDSP"
     jira-board: 182
